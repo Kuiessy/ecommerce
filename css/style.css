@@ -11,3 +11,10 @@ input[type="text"]{
   height:98vh;
   width:100%;
 }
+.logos{
+  list-style: none;
+  display: inline-block;
+}
+.dropdown-item a{
+  color:black;
+}
